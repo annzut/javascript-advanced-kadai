@@ -143,7 +143,6 @@ start.addEventListener('click', () => {
 
 untypedfield.textContent = 'スタートボタンで開始';
 
-// タイプ数のカウント
-let countUp = 0;
+
 
 
